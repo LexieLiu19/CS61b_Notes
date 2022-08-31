@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Java has certain built-in Abstract data types that you can use. These are packaged in Java Libraries.
 
 The three most important ADTs come in the java.util library:
@@ -8,3 +9,6 @@ Set: an unordered collection of strictly unique items (no repeats)
 A popular implementation is the HashSet
 Map: a collection of key/value pairs. You access the value via the key.
 A popular implementation is the HashMap
+=======
+hello
+>>>>>>> 9bec918a618b79c0ed9bded0c8f5f4809ac446e3
